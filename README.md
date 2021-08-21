@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Hunter!
 - 👀 I’m interested in computer vision, machine learning, and software engineering.
-- 🌱 I’m currently learning data structures and algorithms.
+- 🌱 I’m currently learning numerical methods.
 - 📫 Reach me via email (hhaglid@purdue.edu) or on LinkedIn
 <!--- 💞️ I’m looking to collaborate---> 
 
