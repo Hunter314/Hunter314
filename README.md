@@ -1,6 +1,6 @@
 - 👋 Hello, I’m Hunter!
 - 👀 I’m interested in computer vision, autonomous systems, machine learning, and software engineering.
-- 🌱 I’m currently learning systems programming.
+- 🌱 I’m currently learning systems programming, analysis of algorithms, and numerical methods.
 - 📫 Reach me via email (hhaglid@purdue.edu) or on LinkedIn.
 <!--- 💞️ I’m looking to collaborate---> 
 
