@@ -1,7 +1,7 @@
 - 👋 Hello, I’m Hunter!
 - 👀 I’m interested in computer vision and deep learning.
 - 🌱 I’m currently learning about compilers, theory of computation, and machine learning.
-- 📫 Reach me via email (hhaglid@purdue.edu) or on LinkedIn.
+- 📫 Reach me via email (hhaglid@purdue(dot)edu) or on LinkedIn.
 <!--- 💞️ I’m looking to collaborate---> 
 
 <!---
